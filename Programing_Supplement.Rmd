@@ -1,6 +1,6 @@
 ---
 title: "Prediction of 2025 Canadian Federal Election"
-author: "Maureen Jin"
+author: "Kebing (Maureen) Jin"
 date: "November 23th, 2023"
 output:
   pdf_document: default
